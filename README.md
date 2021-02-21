@@ -7,10 +7,15 @@ L’objectif du projet est de créer le prototype d’une plateforme (logiciel 
   3. d'être utilisé en vocal.
 
 ## Architecture
+![image](https://github.com/Polytech-Sorbonne/EI-SE5_2020-2021_MaisonIntelligente/blob/main/img/archi.PNG)
 
 ## Pour reproduire le projet
 1. Préparer les matériels dans le document "Liste Prix Matériel".
 2. Suivre les instructions du document "User manual.pdf".
 
-## Vidéos démo
+## Résultat
+### Vidéos démo
 https://drive.google.com/drive/folders/10hsR6UhCfmHwouinmVlfXM65S6U0qgwu?usp=sharing
+
+### Dashboard
+![image](https://github.com/Polytech-Sorbonne/EI-SE5_2020-2021_MaisonIntelligente/blob/main/img/dashboard.PNG)
