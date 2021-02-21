@@ -8,4 +8,11 @@ L’objectif du projet est de créer le prototype d’une plateforme (logiciel 
 
 ## Architecture
 
-## Les fichiers dans le git
+## Pour reproduire le projet
+1. Préparer les matériels dans le document "Liste Prix Matériel".
+2. Suivre les instructions du document "User manual.pdf".
+
+## Vidéos démo
+[![Watch the video](https://drive.google.com/file/d/1LtWx57XUg4cl8BtafG3EHzvESIkhxfTd/view?usp=sharing)
+[![Watch the video](https://drive.google.com/file/d/1HveZrTlumSAMURRdc8G5o_iuXNxCHBxD/view?usp=sharing)
+[![Watch the video](https://drive.google.com/file/d/15s65VJoZ-L-rJbPG9RIROOTtA-MfB8P4/view?usp=sharing)
