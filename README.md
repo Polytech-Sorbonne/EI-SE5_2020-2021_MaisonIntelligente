@@ -13,4 +13,4 @@ L’objectif du projet est de créer le prototype d’une plateforme (logiciel 
 2. Suivre les instructions du document "User manual.pdf".
 
 ## Vidéos démo
-https://drive.google.com/file/d/1LtWx57XUg4cl8BtafG3EHzvESIkhxfTd/view?usp=sharing
+https://drive.google.com/drive/folders/10hsR6UhCfmHwouinmVlfXM65S6U0qgwu?usp=sharing
